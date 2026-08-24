@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 I'm a CSE student who enjoys **programming, problem solving, and understanding how computers work under the hood.**
 
@@ -46,7 +46,7 @@ Fundamentals · DSA · Linux Internals · Networking
 
 ---
 
-### 🚀 Interests
+###  Interests
 
 <div align="center">
 
@@ -61,26 +61,26 @@ Fundamentals · DSA · Linux Internals · Networking
 
 ---
 
-### 🔨 Projects
+###  Projects
 
 I enjoy **learning by building.** I've participated in **2 hackathons** and worked on projects involving development, databases, APIs, Git/GitHub, and deployment.
 
-> More projects coming as I continue learning and experimenting 🚧
+> More projects coming as I continue learning and experimenting 
 
 ---
 
-### 🎯 Goals
+###  Goals
 
-- 🏆 Become a strong programmer and problem solver
-- 🧱 Build a solid foundation in Computer Science
-- 🐧 Get comfortable with Linux and systems programming
-- 🔍 Understand how software works at a lower level
-- 🛠️ Build meaningful projects
-- 🖥️ Eventually build my own **kernel / small operating system**
+-  Become a strong programmer and problem solver
+-  Build a solid foundation in Computer Science
+-  Get comfortable with Linux and systems programming
+-  Understand how software works at a lower level
+-  Build meaningful projects
+-  Eventually build my own **kernel / small operating system**
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -107,7 +107,7 @@ I enjoy **learning by building.** I've participated in **2 hackathons** and work
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
@@ -120,7 +120,7 @@ I enjoy **learning by building.** I've participated in **2 hackathons** and work
 
 <div align="center">
 
-### 💬 *"Learn the fundamentals. Build things. Understand how they work."*
+###  *"Learn the fundamentals. Build things. Understand how they work."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
 
